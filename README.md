@@ -162,5 +162,3 @@ The next step is getting Windows Server 2025 installed and setting up an Active 
 I'll also need to revisit the operating systems currently running on the workstations. These machines are currently using Windows 10, which reached the end of standard support in October 2025. I'll need to account for that as I move toward a more permanent lab configuration.
 
 Longer term, I'd also like to revisit the storage side of things. If I can repurpose the existing drives into a NAS, that could become another part of the lab and provide centralized storage for future projects.
-
-I'll continue updating this repository as the lab develops.
